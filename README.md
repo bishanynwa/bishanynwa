@@ -1,3 +1,10 @@
+
+
+![Bizhan](https://user-images.githubusercontent.com/96219530/152646117-db353043-df60-4612-bc5d-b4ea8be69a31.png)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Bishan Poudel</h1>
 <h3 align="center">A passionate IT student from Nepal</h3>
 
