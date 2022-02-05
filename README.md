@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bishan Poudel</h1>
 <h3 align="center">A passionate IT student from Nepal</h3>
 
-![Bizhan](https://user-images.githubusercontent.com/96219530/152646117-db353043-df60-4612-bc5d-b4ea8be69a31.png)
+![Untitled](https://user-images.githubusercontent.com/96219530/152647075-c2186a63-e530-4130-a58d-df946ff14a82.png)
 
 - 🔭 I’m currently working on **Studying JavaScript**
 
