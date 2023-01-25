@@ -5,9 +5,9 @@
 
 ![Untitled](https://user-images.githubusercontent.com/96219530/152647075-c2186a63-e530-4130-a58d-df946ff14a82.png)
 
-- 🔭 I’m currently working on **Studying JavaScript**
+- 🔭 I’m currently working as a **Business Analyst Intern**
 
-- 🌱 I’m currently learning **React JS, Node JS, Python, Data Science**
+- 🌱 I’m currently learning ** Data Analysis **
 
 - 📫 How to reach me **bpbpoudel@gmail.com**
 
